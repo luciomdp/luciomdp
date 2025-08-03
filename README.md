@@ -42,9 +42,3 @@ I am a Full-Stack Software Engineer with ~4 years of professional experience in 
 - GPA: 9.57/10
 
 **English**: First Certificate in English – Cambridge University (2020)
-
-## 📫 Contact
-
-- Email: luchogpaulino@gmail.com  
-- LinkedIn: [linkedin.com/in/lucio-paulino](https://linkedin.com/in/lucio-paulino)  
-- GitHub: [github.com/luciomdp](https://github.com/luciomdp)
