@@ -1,14 +1,15 @@
 # Lucio Paulino
 
-Full-Stack Software Engineer with ~4 years of experience designing, building, and maintaining scalable end-to-end applications for both web and mobile platforms. I specialize in full-stack development, microservice architecture, and modern DevOps practices.
+I am a Full-Stack Software Engineer with ~4 years of professional experience in software development, leadership, and project management. My focus is on designing scalable architectures, defining and building robust services, and overseeing infrastructure and DevOps processes.
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java, TypeScript, Dart, HTML, CSS  
-**Frameworks**: Spring Boot, React, Flutter, Next.js  
-**Infrastructure**: Docker, Redis, RabbitMQ, Firebase, Postgres, GitHub/GitLab CI  
-**Testing**: JUnit, Mockito, TestContainers, FlutterTest  
-**Tools**: Portainer, ClickUp, Jira, Figma
+**Languages:** Java, JavaScript/TypeScript, Dart, Python, C, HTML, CSS  
+**Frameworks:** Spring Boot, Hibernate, React, Next.js, Flutter  
+**Technologies:** Git, JWT, Maven, NPM, Vite, SQL Server, PostgreSQL, Redis, RabbitMQ, Firebase  
+**Testing:** JUnit, FlutterTest, TDD, Mockito, MockMVC, TestContainers  
+**DevOps & Infrastructure:** Docker, CI Testing, Database Migrations, GitHub/GitLab CI, Portainer, Cloudflare  
+**Tools:** Jira, ClickUp, Figma
 
 ## 💼 Work Experience
 
@@ -19,19 +20,22 @@ Full-Stack Software Engineer with ~4 years of experience designing, building, an
 - Managed team tasks, sprints, and infrastructure improvements.
 - Scaled product to support growth from ~50 to ~250 clients.
 
-### SPADI Mobile App (2024–Present) – Independent Project  
-- Developed full mobile & backend stack using Flutter, Spring Boot, PostgreSQL, Redis.
-- Implemented biometric login, real-time chat (RabbitMQ), geolocation validation, offline sync, Firebase notifications.
+### SPADI Mobile App (2024–2025) – Independent Project  
+- Designed and developed a full-stack mobile solution using Flutter (frontend), Java Spring Boot with Hibernate (backend), PostgreSQL (DB), and Redis (cache).  
+- Defined system requirements (SRS), modeled and validated architecture diagrams.  
+- Implemented a scalable security model with dynamic, site-specific roles, permissions, and action-based control.
+- Key features include biometric login, real-time chat (RabbitMQ), offline/online data sync, local and server storage, Firebase notifications, email delivery, and a hybrid service validation system based on geolocation (Google Maps) and TOTP tokens (RFC 6238).
+
 
 ### University Teaching Assistant (FASTA)  
+- **Network Management** (2025)
 - **Programming** (2023–2024)  
-- **Network Management** (2025–)
 
 ## 🎓 Education & Awards
 
 **Software Engineering**, FASTA University (2020–2025)  
-- Final GPA: 9.45/10  
-- University Flag Bearer (Top GPA, 2024–2025)  
+- Final GPA: 9.45/10
+- University Flag Bearer (Top GPA across 25,000+ students, 2024–2025)
 - 3 Academic Merit Awards (Santander Bank, 2022–2023)
 
 **IT Analyst**, FASTA University (2020–2024)  
