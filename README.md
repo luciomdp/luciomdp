@@ -12,7 +12,7 @@ Full-Stack Software Engineer with ~4 years of experience designing, building, an
 
 ## 💼 Work Experience
 
-### Advenio Software (2021–Present) – Full Stack Developer & Project Leader  
+### Advenio Software (2021–2025) – Full Stack Developer & Project Leader  
 - Led development of 8+ interconnected web applications.
 - Technologies: Java (Vaadin, Spring Boot), React, TypeScript, Docker.
 - Microservices, third-party API integrations, CI/CD, Portainer deployments.
